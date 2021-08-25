@@ -9,11 +9,11 @@
  */
 
 //syntax => let/const/var variableName: type = value
-let num:number = 5;
-let str:string = 'Hello, World!';
-let bool:boolean = true;
-const notBool:boolean = false;
+let num:number = 5
+let str:string = 'Hello, World!'
+let bool:boolean = true
+const notBool:boolean = false
 const numbers:number[] = [1, 2, 3, 4, 5]
 
-console.log(`str: ${str}, num: ${num}, numbers: ${numbers}`);
+console.log(`str: ${str}, num: ${num}, numbers: ${numbers}`)
 
